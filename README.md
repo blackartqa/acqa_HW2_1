@@ -1,4 +1,5 @@
-# NeuroStartUp
+# NeuroStartUp 
+# Добавил изменения
 
 ![](logo.png)
 
